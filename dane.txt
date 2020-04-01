@@ -1,0 +1,23 @@
+DANE.TXT
+
+1) Nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu:
+1. Węgiel Jakub, kubawegiel96@gmail.com, 1ID21A
+2. Klank Mateusz, quarionek@gmail.com, 1ID21A
+3. Nowakowski Krzysztof, email, 1ID21A
+
+2) Temat projektu:
+“Porównanie wybranych frameworków”
+
+3) Spis technologii, które będą używane (systemów, języków programowania, najważniejszych bibliotek, frameworków, itp.):
+Projekt zostanie zrealizowany z wykorzystaniem trzech frameworków: Swing, Angular oraz Spring boot. Baza danych zostanie wykonana w mySQL
+
+4) Realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane:
+bla bla
+
+5) Podział prac w zespole:
+bla bla
+
+6) Tematy prac inżynierskich i (jeżeli są znane, to również) magisterskich studentów realizujących projekt:
+1. Węgiel Jakub: Aplikacja do układania obciążeń dydaktycznych
+2. Klank Mateusz: Aplikacja webowa wspomagająca pracę restauracji
+3. Nowakowski Krzysztof: temat pracy
