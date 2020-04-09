@@ -3,21 +3,28 @@ DANE.TXT
 1) Nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu:
 1. Węgiel Jakub, kubawegiel96@gmail.com, 1ID21A
 2. Klank Mateusz, quarionek@gmail.com, 1ID21A
-3. Nowakowski Krzysztof, email, 1ID21A
+3. Nowakowski Krzysztof, krzysiek94.nowakowski94@gmail.com, 1ID21A
 
 2) Temat projektu:
 “Porównanie wybranych frameworków”
 
 3) Spis technologii, które będą używane (systemów, języków programowania, najważniejszych bibliotek, frameworków, itp.):
-Projekt zostanie zrealizowany z wykorzystaniem trzech frameworków: Swing, Angular oraz Spring boot. Baza danych zostanie wykonana w mySQL
+Swing, Django, Spring Boot, MySQL
 
 4) Realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane:
-bla bla
+1. Etap 1 (do 27.03.2020) - wybór tematu, utworzenie pliku dane.txt
+2. Etap 2 (do 06.04.2020) - utworzenie wstępnej struktury aplikacji, projekt bazy danych
+3. Etap 3 (do 20.04.2020) - implementacja funkcjonalności
+4. Etap 4 (do 04.05.2020) - implementacja funkcjonalności cd.
+5. Etap 5 (do 18.05.2020) - implementacja funkcjonalności cd.
+6. Etap 6 (do 01.06.2020) - porównanie rozwiązań w poszczególnych frameworkach
+7. Etap 7 (do 15.06.2020) - testy integralnościowe
+8. Etap 8 (do 01.07.2020) - oddanie projektu
 
 5) Podział prac w zespole:
-bla bla
+Projekt zostanie zrealizowany z wykorzystaniem trzech frameworków: Swing, Django oraz Spring Boot. Każdą z implementacji wykona inny student. Projekt w frameworku Swing wykona Węgiel Jakub, w Spring Boot Klank Mateusz, a Django Nowakowski Krzysztof. Baza danych do każdego z nich zostanie wykonana w MySQL.
 
 6) Tematy prac inżynierskich i (jeżeli są znane, to również) magisterskich studentów realizujących projekt:
 1. Węgiel Jakub: Aplikacja do układania obciążeń dydaktycznych
 2. Klank Mateusz: Aplikacja webowa wspomagająca pracę restauracji
-3. Nowakowski Krzysztof: temat pracy
+3. Nowakowski Krzysztof: Projekt i implementacja internetowej aplikacji do klasyfikacji zdjęć z zastosowaniem konwolucyjnych sieci neuronowych
